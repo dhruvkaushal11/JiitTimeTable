@@ -1,21 +1,52 @@
 {
-
 	"result":[
-
-
 
 		{
 
 			"status":"OK",
 			"version":"18",
 			"icon1":"http:\/\/www.jiitconnect.com\/connectApi\/pascolan_logo.png",
-			"text1":"Pascolan","dtext1":"A startup by Jiitians\r\nIntroducing Pascolan\r\n\r\n#Made by connect Developers",
-			"type1":"web","param1":"https:\/\/play.google.com\/store\/apps\/details?id=com.pascolan&referrer=utm_source%3Djiitconnect%26utm_medium%3Dandroidapp",
+			"text1":"Pascolan",
+			"dtext1":"A startup by Jiitians\r\nIntroducing Pascolan\r\n\r\n#Made by connect Developers",
+			"type1":"web",
+			"param1":"https:\/\/play.google.com\/store\/apps\/details?id=com.pascolan&referrer=utm_source%3Djiitconnect%26utm_medium%3Dandroidapp",
 			"badge1":"1",
 			"version_message":"New Version of Connect is now Available.\r\n\r\nWHATS NEW\r\n\u2022 Fixed Recent Login \/Attendance update Issues",
-			"semester":"2019ODDSEM","snackBarFull":"Time Table for 2019ODDSEM will be available soon! If you are JIIT128 Sec student please mail Excel sheet to jiittute@gmail.com",
+			"semester":"2019ODDSEM",
 			"snackBarShort":"Time Table will be available soon!",
-			"webkioskUrl":"http:\/\/14.139.238.106:8080\/JIIT"
+			"snackBarFull":"Time Table for 2019ODDSEM will be available soon! If you are JIIT128 Sec student please mail Excel sheet to jiittute@gmail.com",
+			"webkioskUrl":"http:\/\/14.139.238.106:8080\/JIIT",
+			"BuyBooksUrl":"http://jiitconnect.com/buyBooks.php?enrollment=",
+			"PlacementWeb":true,
+			"PlacementWebUrl":"http://jiitconnect.com/buyBooks.php?enrollment=",
+			"enableAds": false,
+			"TimeTableVersion":[
+				{
+					"J621":1
+				},
+				{
+					"J622":1
+				},
+				{
+					"J623":1
+				},
+				{
+					"J624":1
+				},
+				{
+					"J1281":1
+				},
+				{
+					"J1282":1
+				},
+				{
+					"J1283":1
+				},
+				{
+					"J1284":1
+				}
+
+			]
 		}
 	]
 }
